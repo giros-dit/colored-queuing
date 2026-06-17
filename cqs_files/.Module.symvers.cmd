@@ -1,1 +1,0 @@
-savedcmd_/home/aitorencinas/queue_disciplines/cdrr/v2/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/aitorencinas/queue_disciplines/cdrr/v2/Module.symvers -T /home/aitorencinas/queue_disciplines/cdrr/v2/modules.order -i Module.symvers -e 
